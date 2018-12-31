@@ -1,0 +1,1140 @@
+{
+    "id": "f3b2cb21-4975-43fa-99cb-13d98f59e1da",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "3b995397-8ba6-45c9-9205-c47171deff19",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "f9c7c577-f888-41b0-9c10-e142b14b488f",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "003db8d8-8684-4958-bfcf-e19020e444e1",
+            "Value": {
+                "id": "5077e0a4-36bb-4475-94b5-5e40885082ea",
+                "resourcePath": "scripts\\Poppet_Render\\Poppet_Render.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "011d6834-870e-414e-9f7a-3512783614d5",
+            "Value": {
+                "id": "0e41d166-9672-4f7a-91dd-bb0fbd85b41d",
+                "resourcePath": "objects\\oPoppet_Button\\oPoppet_Button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0372e96e-2d32-4ea9-a9ff-ffd77f32dcae",
+            "Value": {
+                "id": "c6a8c914-45c3-4860-bd09-dc0083d673ca",
+                "resourcePath": "views\\0372e96e-2d32-4ea9-a9ff-ffd77f32dcae.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "06f4af06-285a-4c31-8abf-79ce14c0a132",
+            "Value": {
+                "id": "b021bdfe-8674-4cf7-b759-3d34f623de91",
+                "resourcePath": "scripts\\Poppet_LocalToGlobal\\Poppet_LocalToGlobal.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "08243b4b-a0dd-49eb-9800-556d229425e6",
+            "Value": {
+                "id": "70db5a42-36d7-43d3-9674-333fd66ba7e2",
+                "resourcePath": "views\\08243b4b-a0dd-49eb-9800-556d229425e6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0974c800-fcf6-47fb-915e-47adf34aa8c6",
+            "Value": {
+                "id": "18bfd727-60c3-4aea-8175-6d4e0202e41d",
+                "resourcePath": "views\\0974c800-fcf6-47fb-915e-47adf34aa8c6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0bcf615a-d72b-4f18-a694-8879d809ba10",
+            "Value": {
+                "id": "2bb1494a-c88e-41dd-bb8b-ae540cdbaae6",
+                "resourcePath": "scripts\\Poppet_AlphaSet\\Poppet_AlphaSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "0f2b18ba-fbe5-48fe-8985-a6a7c60c6fb1",
+            "Value": {
+                "id": "23069358-eaf8-4ad6-9a37-ed964941d28f",
+                "resourcePath": "views\\0f2b18ba-fbe5-48fe-8985-a6a7c60c6fb1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "102e86ea-a7a3-4079-b54d-7caa2e491421",
+            "Value": {
+                "id": "fc713705-ab29-48ca-b15e-12f08b761267",
+                "resourcePath": "scripts\\Poppet_SkewSet\\Poppet_SkewSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "110d7af5-0126-43f5-8edb-efacd1a1f3b9",
+            "Value": {
+                "id": "1654cff5-6359-41bb-b783-7f568f21af0d",
+                "resourcePath": "scripts\\Poppet_SkewGet\\Poppet_SkewGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "12c8a116-e75d-451e-9d47-d7e3a8867287",
+            "Value": {
+                "id": "99f3c965-9891-4fd1-b7ca-c3c2a16156d4",
+                "resourcePath": "objects\\oBtn_GameStart\\oBtn_GameStart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "13277f3d-0e12-4731-933d-b230af53d7e0",
+            "Value": {
+                "id": "e07c51e8-3e3f-42bc-909f-947912eddf62",
+                "resourcePath": "scripts\\Poppet_MouseEventCancelBubble\\Poppet_MouseEventCancelBubble.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "141858c3-394f-4fed-b3e0-d3dbd9171b32",
+            "Value": {
+                "id": "0a5721ea-e794-46a1-8923-babe3bf41d4e",
+                "resourcePath": "scripts\\Poppet_AnchorGet\\Poppet_AnchorGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "15369ddd-5fa6-48cc-9172-83e99cfa7bf3",
+            "Value": {
+                "id": "34492d0c-4c99-47d9-bc05-833efc0f46df",
+                "resourcePath": "scripts\\Poppet_RotationSet\\Poppet_RotationSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1aeee630-eac1-4896-bd65-469f8d45cc01",
+            "Value": {
+                "id": "889180c6-250d-47bb-b3ad-b712fb6b8275",
+                "resourcePath": "scripts\\Poppet_MouseEventPathAdd\\Poppet_MouseEventPathAdd.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1b5bef49-99a8-4220-a5a4-718733c4e1c9",
+            "Value": {
+                "id": "403503d3-56f1-458f-bad2-84c0ecf17a2b",
+                "resourcePath": "views\\1b5bef49-99a8-4220-a5a4-718733c4e1c9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1bf1effe-b3c1-47d8-ac20-5117424bbfaf",
+            "Value": {
+                "id": "31821b0c-6e31-449c-9f15-73927fd02163",
+                "resourcePath": "views\\1bf1effe-b3c1-47d8-ac20-5117424bbfaf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "21ccc699-c846-47a6-bf06-7114ee825c84",
+            "Value": {
+                "id": "4eefe076-f0d2-465a-a5fe-88be63399932",
+                "resourcePath": "views\\21ccc699-c846-47a6-bf06-7114ee825c84.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "26ab0100-33e5-4b2b-b2dd-0ad716e6ac29",
+            "Value": {
+                "id": "dde62bfc-44bd-464f-9f34-8d273b71ff5a",
+                "resourcePath": "scripts\\Poppet_UpdateTransform\\Poppet_UpdateTransform.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "29b74683-972a-4162-a12d-b560863bdc8b",
+            "Value": {
+                "id": "7d027c88-96c2-49e2-9ee5-52679aafd5df",
+                "resourcePath": "views\\29b74683-972a-4162-a12d-b560863bdc8b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2cb12907-e55e-4e2d-a6ff-4cedd3a4e557",
+            "Value": {
+                "id": "3ef48f64-5c19-4fd3-abf1-5644267bc14a",
+                "resourcePath": "views\\2cb12907-e55e-4e2d-a6ff-4cedd3a4e557.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2ed63763-be64-4b56-97bb-2b8cb2c995e2",
+            "Value": {
+                "id": "a150db9a-4513-48bb-9cf9-1bb710b035d5",
+                "resourcePath": "scripts\\Poppet_CreateDisplayObject\\Poppet_CreateDisplayObject.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2f334d03-db31-4e3c-a26e-2cfb88754b08",
+            "Value": {
+                "id": "0766eb65-972c-46e1-8400-3b4823ec8f17",
+                "resourcePath": "scripts\\Poppet_ChildSwap\\Poppet_ChildSwap.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3120ac35-7fc6-453f-a16a-44bb888b03c3",
+            "Value": {
+                "id": "5216792f-d2e2-4aab-ae01-5a3872f5db4e",
+                "resourcePath": "scripts\\Poppet_TransformCreate\\Poppet_TransformCreate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "32cfb595-f265-47eb-a064-19d635f94608",
+            "Value": {
+                "id": "c12f90ee-4d25-4c86-8ea2-677b73ed2881",
+                "resourcePath": "scripts\\Poppet_ScaleGet\\Poppet_ScaleGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "34dc6e2a-2304-458b-a527-749d207fb57c",
+            "Value": {
+                "id": "f79ab1f8-a97d-4105-9336-17a9e531a883",
+                "resourcePath": "scripts\\Poppet_SizeSet\\Poppet_SizeSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "367a7926-57ca-41e6-b44a-4f889eebfbf6",
+            "Value": {
+                "id": "104247cf-575d-4dc6-a378-7e00e49070fb",
+                "resourcePath": "sprites\\sVIP\\sVIP.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3725a9c6-dda4-438b-ba4b-ff5b058d21fa",
+            "Value": {
+                "id": "217ad27a-76f1-40b2-ae53-395c0635db0f",
+                "resourcePath": "scripts\\Poppet_MouseLeftStateGet\\Poppet_MouseLeftStateGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "39023e72-aeb2-4d44-a368-ee96ddecfcd2",
+            "Value": {
+                "id": "8f69db65-7a12-4a8d-9263-5ce1857f3c29",
+                "resourcePath": "scripts\\Poppet_MouseEventDispatcher\\Poppet_MouseEventDispatcher.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3908ef47-5373-49bf-9dcc-1253f4ef92f5",
+            "Value": {
+                "id": "8678c339-93e5-47bd-92c0-7ac2f864c9eb",
+                "resourcePath": "scripts\\Poppet_IsPointInBox\\Poppet_IsPointInBox.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "c5dfdf98-01ef-4823-ad34-6610ea2a064e",
+                "resourcePath": "options\\switch\\options_switch.yy",
+                "resourceType": "GMSwitchOptions"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "efce052a-dd68-4e35-96e3-28e83598b0c8",
+                "resourcePath": "options\\ps4\\options_ps4.yy",
+                "resourceType": "GMPS4Options"
+            }
+        },
+        {
+            "Key": "3bebee35-c035-48c0-9314-77ef60707fc8",
+            "Value": {
+                "id": "0112abe2-7d27-4f16-bee8-545f75d64aa5",
+                "resourcePath": "scripts\\Poppet_ContainerTransformUpdate\\Poppet_ContainerTransformUpdate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4438ddac-51e2-453e-93d3-2549ee2f9f05",
+            "Value": {
+                "id": "898434d2-da97-4c6e-8d0d-2b8c51f175be",
+                "resourcePath": "scripts\\Poppet_ImageScaleMode\\Poppet_ImageScaleMode.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "45a286cd-d587-484b-a591-48ec253d7e59",
+            "Value": {
+                "id": "8a9dd9e9-33b9-4224-a8e0-903f8c7ef3c3",
+                "resourcePath": "sprites\\sPoppet_PointPrecise\\sPoppet_PointPrecise.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "477fc1b8-1bc1-41b5-be04-fe0f69a12f90",
+            "Value": {
+                "id": "0b25b018-42d1-4a0f-a302-a73ff19413a5",
+                "resourcePath": "scripts\\Poppet_ImageScaleModelSet\\Poppet_ImageScaleModelSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4793320f-9205-4050-aef8-fc0c0c6aab4d",
+            "Value": {
+                "id": "ccbd9b86-cab7-4f8b-91d5-3c384841b875",
+                "resourcePath": "views\\4793320f-9205-4050-aef8-fc0c0c6aab4d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4b5a84aa-222e-4d8f-a96d-05f505c1fe38",
+            "Value": {
+                "id": "fa6584cd-6022-4d8e-b564-e9343ba462b6",
+                "resourcePath": "objects\\oPoppet_Container\\oPoppet_Container.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c3ebb2b-e9d3-4763-b321-4ccbf51f14e3",
+            "Value": {
+                "id": "42fb83dd-0c71-46bb-a900-32c9ef0de69b",
+                "resourcePath": "views\\4c3ebb2b-e9d3-4763-b321-4ccbf51f14e3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4cdd53c2-7471-4a95-80e2-06a85a512791",
+            "Value": {
+                "id": "67f7a72a-0e44-4e6f-80e5-2dc9ea88f31d",
+                "resourcePath": "scripts\\Poppet_Image9GridStatusSet\\Poppet_Image9GridStatusSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4e989b9e-045a-43da-bba3-1e7dd03b315b",
+            "Value": {
+                "id": "a80c6243-95b9-4158-a097-dbd524cff20a",
+                "resourcePath": "views\\4e989b9e-045a-43da-bba3-1e7dd03b315b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4f884e1b-942a-4aa8-bdaf-a7dba71bfade",
+            "Value": {
+                "id": "ff69ac23-05a7-4fe0-963c-c89f4de5d324",
+                "resourcePath": "scripts\\Poppet_ChildGetAt\\Poppet_ChildGetAt.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5259f5dc-4b78-4bae-8b78-7646f8205103",
+            "Value": {
+                "id": "cff48c46-7f6e-4e40-add1-4dae7c9260d9",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "57d741bf-35ab-47a3-aae7-b6f69a6bef1a",
+            "Value": {
+                "id": "d6c63173-ab33-47a1-a4b7-36871e766a7a",
+                "resourcePath": "scripts\\Poppet_PositionGet\\Poppet_PositionGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5a96f7c2-01ab-4d65-9f9f-1d9b2b6d76b6",
+            "Value": {
+                "id": "0309b086-52eb-48b0-9c49-5320e20bc56c",
+                "resourcePath": "scripts\\Poppet_YAdd\\Poppet_YAdd.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5a97addc-280f-49f7-a074-62c3c1938c52",
+            "Value": {
+                "id": "8c012972-3590-4416-ae56-83fcbd0a15c0",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "653eb498-a568-468b-b0c6-9d98cf50d740",
+            "Value": {
+                "id": "bb488c6a-255c-4055-a9f9-d9a31b8df7fc",
+                "resourcePath": "scripts\\Poppet_HeightGet\\Poppet_HeightGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "67e31def-11cc-42df-a501-77b472fce4cb",
+            "Value": {
+                "id": "805a30ab-5a17-4663-9c3e-c241c5cd7324",
+                "resourcePath": "scripts\\Poppet_YGet\\Poppet_YGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6c986e73-e08c-4460-9d6c-155b83b3b8d5",
+            "Value": {
+                "id": "38f27d1c-fb1a-4f34-b248-e02ca9dea1e4",
+                "resourcePath": "scripts\\Poppet_YSet\\Poppet_YSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "10e523d2-2280-4560-b72b-5bc8f850d0f5",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "777f7326-fa80-4e4d-b5e4-a79596c308fa",
+            "Value": {
+                "id": "c0abed83-b4ae-4a35-9952-6bf797ea9e75",
+                "resourcePath": "scripts\\Poppet_ChildAdd\\Poppet_ChildAdd.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "79aaec81-09cb-4fbb-aa10-41bceade43cf",
+            "Value": {
+                "id": "ece1605c-d876-484d-9f10-924f2aebf68e",
+                "resourcePath": "scripts\\Poppet_GlobalToLocal\\Poppet_GlobalToLocal.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7ccf9c7f-08da-4add-9dce-b7a00e2d9617",
+            "Value": {
+                "id": "8268069d-81f8-457f-bd50-5d79c5a2984b",
+                "resourcePath": "scripts\\Poppet_ChildIndexSet\\Poppet_ChildIndexSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "a342fe14-9070-4b10-b0eb-f4616c9ce80c",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "7e466e1d-f0e6-441e-a939-344e49761c46",
+            "Value": {
+                "id": "36a124a5-110e-43e4-9f33-dfc38c2464f2",
+                "resourcePath": "scripts\\Poppet_WorldVisibleGet\\Poppet_WorldVisibleGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7e568f87-a306-409e-be05-8f1c7bf67f6b",
+            "Value": {
+                "id": "62e7ae76-fe91-4656-92a8-0f51eabd24e6",
+                "resourcePath": "scripts\\Poppet_WidthGet\\Poppet_WidthGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "80055084-66cd-435b-a3ef-f55109a99ad7",
+            "Value": {
+                "id": "8cf6550e-aa41-4e85-828e-261a29f17c0b",
+                "resourcePath": "scripts\\Poppet_MouseEventCaptureObject\\Poppet_MouseEventCaptureObject.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "aaf64af4-e4d2-47cf-bb69-4511c2ac0760",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "84b1a9b6-ddfc-483f-873b-ca7652fa57c7",
+            "Value": {
+                "id": "fff5a679-4fba-4871-b9e6-af51ab18d8c2",
+                "resourcePath": "views\\84b1a9b6-ddfc-483f-873b-ca7652fa57c7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "859c06ba-1a95-4d57-a69d-00da6963f600",
+            "Value": {
+                "id": "eda673e6-35a0-4753-b809-0ee9bb868490",
+                "resourcePath": "objects\\oPoppet_Image\\oPoppet_Image.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "86542ee9-bd5f-46bf-a8f4-49a5486f1c46",
+            "Value": {
+                "id": "fa073ed2-2e49-4ca5-b250-39adce4e4c0b",
+                "resourcePath": "scripts\\Poppet_ChildAddAt\\Poppet_ChildAddAt.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8794bed1-839f-444d-a71e-0f223e253d27",
+            "Value": {
+                "id": "80cf477c-1bf7-42f0-ae73-0a872f7b8582",
+                "resourcePath": "scripts\\Poppet_PreciseClickDisable\\Poppet_PreciseClickDisable.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8887109b-3d97-47d2-a9a9-3c3d6cac71fe",
+            "Value": {
+                "id": "93ca88ea-7ddf-47d6-92bf-acb887f17b63",
+                "resourcePath": "scripts\\Poppet_MouseEventTypeSet\\Poppet_MouseEventTypeSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "889801cb-b31e-4e70-98dd-adc6e17dcbbf",
+            "Value": {
+                "id": "946f7a0c-6d80-4974-834c-c8c0c1e8a18e",
+                "resourcePath": "views\\889801cb-b31e-4e70-98dd-adc6e17dcbbf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8ac65196-642b-4bdc-b30b-95b230596ace",
+            "Value": {
+                "id": "e8f8ea3b-0efc-4822-9e6b-f6b50d05adc2",
+                "resourcePath": "scripts\\Poppet_ScaleSet\\Poppet_ScaleSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9240e9a5-8547-4f0c-91a4-f795eca67406",
+            "Value": {
+                "id": "71f44294-b07f-4386-a3cf-f495a59d84b7",
+                "resourcePath": "scripts\\Poppet_TransformUpdate\\Poppet_TransformUpdate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "ca1b32af-fc57-4085-81fc-3eee55899b4a",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "9543d8bb-976c-4fbf-aa8f-0d35ca347688",
+            "Value": {
+                "id": "ca0e9dc1-5876-4a5f-92ca-7c32e3c2ea81",
+                "resourcePath": "scripts\\Poppet_ChildRemoveRange\\Poppet_ChildRemoveRange.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "96b14f49-8fc6-4d67-ba7e-b83f3ae22a96",
+            "Value": {
+                "id": "27d6028e-8026-4aae-8baa-293d5f796845",
+                "resourcePath": "scripts\\Poppet_ImageDraw9Grid\\Poppet_ImageDraw9Grid.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9c7748bf-1dbc-4b43-b454-d871cdf7c3cd",
+            "Value": {
+                "id": "a2bb13b2-9c0b-491d-97c5-d9bde7527d38",
+                "resourcePath": "scripts\\Poppet_RectCreate\\Poppet_RectCreate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9d75ffc9-86ce-4e76-944e-61b3613eb661",
+            "Value": {
+                "id": "ae4b3f6f-c44e-48e9-af51-bae7ef44a998",
+                "resourcePath": "sprites\\sButton\\sButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9f3f7f14-5746-48cc-92cc-b2b7ef0ab79e",
+            "Value": {
+                "id": "b1a6e3f0-1d9c-49d5-bcff-5014278d4d77",
+                "resourcePath": "scripts\\Poppet_PivotGet\\Poppet_PivotGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "ef27e7e7-3819-4822-8bc2-f47ff20dda6f",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a235632f-3082-4927-b22b-31b421cedeb9",
+            "Value": {
+                "id": "ceccee43-d617-4fb7-b76c-d103668bf119",
+                "resourcePath": "views\\a235632f-3082-4927-b22b-31b421cedeb9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a3e0a273-affb-45f4-9219-65a80db2d6e2",
+            "Value": {
+                "id": "5b9f64ef-3847-4992-922c-4f792d398233",
+                "resourcePath": "scripts\\Poppet_AnchorSet\\Poppet_AnchorSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a41bfbab-0977-442d-867f-589ad041e25f",
+            "Value": {
+                "id": "34f940ee-fc17-4947-ba4b-2dbf91bd57b9",
+                "resourcePath": "scripts\\Poppet_HeightSet\\Poppet_HeightSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a45e715f-5db2-4fb7-8379-c08033534e0e",
+            "Value": {
+                "id": "97628ce3-6dcb-4b26-9750-43f36dd52a6b",
+                "resourcePath": "views\\a45e715f-5db2-4fb7-8379-c08033534e0e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a573c64c-1365-43a6-b38c-73c1a557c72f",
+            "Value": {
+                "id": "c2a35c02-b195-4fd6-b2a9-0265f7b6154f",
+                "resourcePath": "scripts\\Poppet_TransformOnChange\\Poppet_TransformOnChange.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a7492b2b-403f-4e6d-ab44-e9310d31239a",
+            "Value": {
+                "id": "ee28f5e6-b66c-4798-8fad-f01205ed797e",
+                "resourcePath": "objects\\oPoppet_Text\\oPoppet_Text.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "1d9c484a-d96d-4f84-8b52-d0fbc19c1562",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aae013ce-cee2-49be-8281-d8ab26c9fb3d",
+            "Value": {
+                "id": "915c1d06-40b8-470a-b13d-6c8d08a08807",
+                "resourcePath": "views\\aae013ce-cee2-49be-8281-d8ab26c9fb3d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "abb361a2-0839-4510-86ce-5da327322d94",
+            "Value": {
+                "id": "7a93bcdf-2691-4f0b-aa17-a6561f14487e",
+                "resourcePath": "scripts\\Poppet_ChildRemoveAt\\Poppet_ChildRemoveAt.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ac005b7a-7d49-4590-8393-7f58463e508e",
+            "Value": {
+                "id": "ca8d4269-e625-453a-a7e1-a6927254c129",
+                "resourcePath": "scripts\\Poppet_ChildRemove\\Poppet_ChildRemove.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ac7a1735-f15f-44e3-ae30-fc38d2b1b028",
+            "Value": {
+                "id": "16adb9d3-d14e-471c-8d9b-f612ae08a384",
+                "resourcePath": "scripts\\Poppet_PositionSet\\Poppet_PositionSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ae2b5ba5-c04a-45b6-951c-e244da41edfa",
+            "Value": {
+                "id": "79d7a405-f2cd-4cd2-8a65-67caae45da7b",
+                "resourcePath": "scripts\\Poppet_XGet\\Poppet_XGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "aed50f0f-4e51-4bd7-b698-1f88276ab163",
+            "Value": {
+                "id": "894e288b-1101-4f17-8cf7-e3a85edb5867",
+                "resourcePath": "views\\aed50f0f-4e51-4bd7-b698-1f88276ab163.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b0d0fd48-2226-4f53-bc48-ac4664be4344",
+            "Value": {
+                "id": "7a73b87c-2c6c-4a92-b455-d23e902fcf82",
+                "resourcePath": "scripts\\Poppet_PointCreate\\Poppet_PointCreate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b3a61196-1709-4aee-8ee2-f0d8823a1439",
+            "Value": {
+                "id": "6f758ebe-fc74-47e5-aacd-00e360dbae7f",
+                "resourcePath": "objects\\oPoppet_DragArea\\oPoppet_DragArea.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b47f523f-e9cd-4be9-b642-c7b3c7cdf8a2",
+            "Value": {
+                "id": "543ebecb-9f17-4e19-a795-2ece55ef58c2",
+                "resourcePath": "objects\\oPoppet_Renderer\\oPoppet_Renderer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b5eda237-e7dc-48a7-9b6a-162db5535874",
+            "Value": {
+                "id": "30a8c521-e606-4c20-8056-7ae2686391a3",
+                "resourcePath": "views\\b5eda237-e7dc-48a7-9b6a-162db5535874.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b6a01367-caa1-474a-bd40-b346eda215d2",
+            "Value": {
+                "id": "4a802390-2ca8-46ce-93f9-a7bcda970ccb",
+                "resourcePath": "scripts\\Poppet_XAdd\\Poppet_XAdd.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b9312203-2f25-4ad0-b0ad-9784b627860f",
+            "Value": {
+                "id": "580eb896-d343-4ceb-8046-5c75435d7750",
+                "resourcePath": "scripts\\matrix_inverse\\matrix_inverse.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ba2f43ff-d76c-47cf-9b00-bac5f1f791b7",
+            "Value": {
+                "id": "2e07dbd4-3790-4e58-93fc-ed4bc853496c",
+                "resourcePath": "views\\ba2f43ff-d76c-47cf-9b00-bac5f1f791b7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bc42ca58-98d8-47cc-8fe7-04585a9cb784",
+            "Value": {
+                "id": "fe9b9f5b-55dc-470b-9ca2-f65c9f4e32d6",
+                "resourcePath": "scripts\\Poppet_WidthSet\\Poppet_WidthSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "bc46bda7-62d7-45eb-87fb-191c84e5e0fa",
+            "Value": {
+                "id": "e3670885-1127-42e1-81f3-37f1b76327bf",
+                "resourcePath": "objects\\Application\\Application.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd81289e-761b-41c4-ba91-69c9254c03ef",
+            "Value": {
+                "id": "20ffc0da-f369-4f0a-9bcd-ce27cfcb5de3",
+                "resourcePath": "scripts\\Poppet_MouseEventReset\\Poppet_MouseEventReset.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c2a61a48-6f69-47d1-89a3-804e76241f21",
+            "Value": {
+                "id": "08e2374e-8b10-4aa2-bd46-0a747e7f680e",
+                "resourcePath": "views\\c2a61a48-6f69-47d1-89a3-804e76241f21.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c45d6942-f10b-4735-9ab2-a1e632e0d529",
+            "Value": {
+                "id": "ff38714c-98c4-4359-a874-e17715b27d04",
+                "resourcePath": "sprites\\sPoppet_Point\\sPoppet_Point.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c5254ef8-6386-47b2-b341-dc6ee5d662c8",
+            "Value": {
+                "id": "fa457ce2-cfd3-40da-ac38-f5d64a83badc",
+                "resourcePath": "scripts\\Poppet_ImageSetFromSprite\\Poppet_ImageSetFromSprite.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c6a84a2e-6397-46b3-95e2-3b9b42741885",
+            "Value": {
+                "id": "fbb2c435-cf1a-4cd8-80d1-e13865a70d2b",
+                "resourcePath": "views\\c6a84a2e-6397-46b3-95e2-3b9b42741885.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ca1cb45f-025c-4e8e-b1d3-0947e66b47b9",
+            "Value": {
+                "id": "2f403e7c-83a1-4a0e-aec5-408f998d1d4f",
+                "resourcePath": "scripts\\Poppet_CreateContainer\\Poppet_CreateContainer.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cac73b73-6e86-4e42-9f62-2064f0205e28",
+            "Value": {
+                "id": "d412e1bf-4da1-4377-930d-e21ce51c39f4",
+                "resourcePath": "objects\\oPoppet_MouseManager\\oPoppet_MouseManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "caf7342e-0d6f-4ed9-93a8-a0896541f6b7",
+            "Value": {
+                "id": "544ebce2-988c-4ecc-8cc8-532f3aba01b7",
+                "resourcePath": "scripts\\Poppet_RotationGet\\Poppet_RotationGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cc45681b-8cba-4664-ace7-f75deb4c2247",
+            "Value": {
+                "id": "0be17dae-9bbe-424d-a784-f7d2e10fb816",
+                "resourcePath": "scripts\\Poppet_SizeGet\\Poppet_SizeGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "096ec05e-d1ba-4e24-84b8-879a3e19051b",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd1f97cc-4945-4493-9d1c-827b9e597bbc",
+            "Value": {
+                "id": "cb24ec0d-c1ba-4f93-8c1d-3527b1a11ffa",
+                "resourcePath": "objects\\oPoppet_Transform\\oPoppet_Transform.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d7371f52-6a37-4057-9f60-968ad3c26417",
+            "Value": {
+                "id": "ccb80bc2-9d50-4fc7-86c4-af4bf2d87d2e",
+                "resourcePath": "scripts\\Poppet_PreciseClickEnable\\Poppet_PreciseClickEnable.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d8d67927-8b04-4b62-8f51-da58bf59fd30",
+            "Value": {
+                "id": "d42a7be5-6069-4b3b-a506-a5aac335ccd5",
+                "resourcePath": "scripts\\Poppet_Image9GridRectSet\\Poppet_Image9GridRectSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "da9d2a44-5208-4ee3-a71a-a2e4bc24d62e",
+            "Value": {
+                "id": "659e49fd-b691-43e7-b3ea-1c8d173b63c3",
+                "resourcePath": "views\\da9d2a44-5208-4ee3-a71a-a2e4bc24d62e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "db7927bb-b8b4-436d-bf7e-ac0eb767416d",
+            "Value": {
+                "id": "e262490e-399b-4f36-864c-10f3cea5e902",
+                "resourcePath": "scripts\\Poppet_CreateMouseEvent\\Poppet_CreateMouseEvent.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "dc11f8ca-24ec-4573-a9e0-ca5824bb33ca",
+            "Value": {
+                "id": "6af2dbb7-a6ab-42b5-bb3c-22c055c501a5",
+                "resourcePath": "views\\dc11f8ca-24ec-4573-a9e0-ca5824bb33ca.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dee70c60-9c12-4403-94fe-098d0bb91298",
+            "Value": {
+                "id": "3d5c18ed-3817-41b6-b535-fb97d0c30369",
+                "resourcePath": "scripts\\Poppet_CreateLocalMatrix\\Poppet_CreateLocalMatrix.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "df2eeec4-9066-4320-8637-9470d97423af",
+            "Value": {
+                "id": "3fe6a88e-5407-4c35-8636-b67db47adaa1",
+                "resourcePath": "views\\df2eeec4-9066-4320-8637-9470d97423af.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e08c4eef-02d9-42a8-b063-45faf72ceb10",
+            "Value": {
+                "id": "1ef28385-8380-4fef-a887-29737ca67d8b",
+                "resourcePath": "scripts\\Poppet_ChildIndexGet\\Poppet_ChildIndexGet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e0e26c5e-25f9-41e4-8d42-c72e9c510b75",
+            "Value": {
+                "id": "b703dc4d-794f-4bd9-893f-251ea8fd8783",
+                "resourcePath": "scripts\\Poppet_MouseObject\\Poppet_MouseObject.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "69ee7379-31ad-4e2f-b33a-6616724aae79",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e5f725c7-451d-4a46-8bc4-8fd76834b57b",
+            "Value": {
+                "id": "683b56a6-83c8-47d4-b0d7-0b6cdde053d2",
+                "resourcePath": "views\\e5f725c7-451d-4a46-8bc4-8fd76834b57b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e8f438e0-6391-4a50-85be-49779f5e6e8e",
+            "Value": {
+                "id": "d0495bb0-0a83-4e2d-a981-d56bd55581dc",
+                "resourcePath": "views\\e8f438e0-6391-4a50-85be-49779f5e6e8e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ea4dbcb0-9d14-4947-b58b-fce1be561996",
+            "Value": {
+                "id": "c7a683d5-9752-45fc-b2ae-045ad0cf6d4c",
+                "resourcePath": "objects\\oPoppet_DisplayObject\\oPoppet_DisplayObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ed13fab4-6801-4364-a5b3-8e55d04a2b0c",
+            "Value": {
+                "id": "de797f14-6b21-417a-9e03-322f164b46d4",
+                "resourcePath": "scripts\\Poppet_Init\\Poppet_Init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "edfeea84-2443-46a5-8cd8-6fc90822ece1",
+            "Value": {
+                "id": "e2553cc6-cff5-4a4a-971f-8118e731771c",
+                "resourcePath": "scripts\\Poppet_PivotSet\\Poppet_PivotSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ef16c77a-4c8a-4e97-840e-c745832c02a6",
+            "Value": {
+                "id": "adedeeab-4bd4-4263-8914-0d54764558d4",
+                "resourcePath": "scripts\\Poppet_ContainerBoundsCalculate\\Poppet_ContainerBoundsCalculate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ef35ac79-4d46-4a97-823e-5c13ee49a3fd",
+            "Value": {
+                "id": "f34ac298-b287-4479-aecc-498c1f36a9f8",
+                "resourcePath": "views\\ef35ac79-4d46-4a97-823e-5c13ee49a3fd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "effe762e-8330-4a86-8e14-4de3e0a484e0",
+            "Value": {
+                "id": "69b239d6-d603-4aad-91ba-09c2933c03d0",
+                "resourcePath": "scripts\\Poppet_ImageDrawTiledArea\\Poppet_ImageDrawTiledArea.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "21b725e4-d9d2-44e3-bfef-e05530800315",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f5b0d25d-5f8e-4700-a257-596b416f806b",
+            "Value": {
+                "id": "c3a39565-85e1-42bd-9c15-4c503b8155f1",
+                "resourcePath": "scripts\\Poppet_XSet\\Poppet_XSet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
+            "Value": {
+                "id": "7989da51-408e-40b1-86e1-8b481aaf1760",
+                "resourcePath": "options\\xboxone\\options_xboxone.yy",
+                "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fb3a5a8c-f5fe-4a6a-a1fa-d1cde05dfce1",
+            "Value": {
+                "id": "87ced6aa-a3b4-4b48-8f8a-176a55df179f",
+                "resourcePath": "scripts\\Poppet_ElementType\\Poppet_ElementType.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ffd111cf-95b4-4f21-87c9-7b57a06faaad",
+            "Value": {
+                "id": "b00b8e80-fe26-41ff-a915-1cf76900d052",
+                "resourcePath": "views\\ffd111cf-95b4-4f21-87c9-7b57a06faaad.yy",
+                "resourceType": "GMFolder"
+            }
+        }
+    ],
+    "script_order": [
+        "ed13fab4-6801-4364-a5b3-8e55d04a2b0c",
+        "003db8d8-8684-4958-bfcf-e19020e444e1",
+        "3120ac35-7fc6-453f-a16a-44bb888b03c3",
+        "9240e9a5-8547-4f0c-91a4-f795eca67406",
+        "a573c64c-1365-43a6-b38c-73c1a557c72f",
+        "79aaec81-09cb-4fbb-aa10-41bceade43cf",
+        "06f4af06-285a-4c31-8abf-79ce14c0a132",
+        "dee70c60-9c12-4403-94fe-098d0bb91298",
+        "3bebee35-c035-48c0-9314-77ef60707fc8",
+        "ef16c77a-4c8a-4e97-840e-c745832c02a6",
+        "777f7326-fa80-4e4d-b5e4-a79596c308fa",
+        "86542ee9-bd5f-46bf-a8f4-49a5486f1c46",
+        "2f334d03-db31-4e3c-a26e-2cfb88754b08",
+        "e08c4eef-02d9-42a8-b063-45faf72ceb10",
+        "7ccf9c7f-08da-4add-9dce-b7a00e2d9617",
+        "4f884e1b-942a-4aa8-bdaf-a7dba71bfade",
+        "ac005b7a-7d49-4590-8393-7f58463e508e",
+        "abb361a2-0839-4510-86ce-5da327322d94",
+        "9543d8bb-976c-4fbf-aa8f-0d35ca347688",
+        "f5b0d25d-5f8e-4700-a257-596b416f806b",
+        "ae2b5ba5-c04a-45b6-951c-e244da41edfa",
+        "b6a01367-caa1-474a-bd40-b346eda215d2",
+        "6c986e73-e08c-4460-9d6c-155b83b3b8d5",
+        "67e31def-11cc-42df-a501-77b472fce4cb",
+        "5a96f7c2-01ab-4d65-9f9f-1d9b2b6d76b6",
+        "ac7a1735-f15f-44e3-ae30-fc38d2b1b028",
+        "57d741bf-35ab-47a3-aae7-b6f69a6bef1a",
+        "8ac65196-642b-4bdc-b30b-95b230596ace",
+        "32cfb595-f265-47eb-a064-19d635f94608",
+        "edfeea84-2443-46a5-8cd8-6fc90822ece1",
+        "9f3f7f14-5746-48cc-92cc-b2b7ef0ab79e",
+        "102e86ea-a7a3-4079-b54d-7caa2e491421",
+        "110d7af5-0126-43f5-8edb-efacd1a1f3b9",
+        "15369ddd-5fa6-48cc-9172-83e99cfa7bf3",
+        "caf7342e-0d6f-4ed9-93a8-a0896541f6b7",
+        "7e568f87-a306-409e-be05-8f1c7bf67f6b",
+        "bc42ca58-98d8-47cc-8fe7-04585a9cb784",
+        "653eb498-a568-468b-b0c6-9d98cf50d740",
+        "a41bfbab-0977-442d-867f-589ad041e25f",
+        "7e466e1d-f0e6-441e-a939-344e49761c46",
+        "cc45681b-8cba-4664-ace7-f75deb4c2247",
+        "34dc6e2a-2304-458b-a527-749d207fb57c",
+        "a3e0a273-affb-45f4-9219-65a80db2d6e2",
+        "141858c3-394f-4fed-b3e0-d3dbd9171b32",
+        "d7371f52-6a37-4057-9f60-968ad3c26417",
+        "8794bed1-839f-444d-a71e-0f223e253d27",
+        "0bcf615a-d72b-4f18-a694-8879d809ba10",
+        "4438ddac-51e2-453e-93d3-2549ee2f9f05",
+        "477fc1b8-1bc1-41b5-be04-fe0f69a12f90",
+        "d8d67927-8b04-4b62-8f51-da58bf59fd30",
+        "4cdd53c2-7471-4a95-80e2-06a85a512791",
+        "c5254ef8-6386-47b2-b341-dc6ee5d662c8",
+        "96b14f49-8fc6-4d67-ba7e-b83f3ae22a96",
+        "effe762e-8330-4a86-8e14-4de3e0a484e0",
+        "2ed63763-be64-4b56-97bb-2b8cb2c995e2",
+        "ca1cb45f-025c-4e8e-b1d3-0947e66b47b9",
+        "26ab0100-33e5-4b2b-b2dd-0ad716e6ac29",
+        "fb3a5a8c-f5fe-4a6a-a1fa-d1cde05dfce1",
+        "b0d0fd48-2226-4f53-bc48-ac4664be4344",
+        "9c7748bf-1dbc-4b43-b454-d871cdf7c3cd",
+        "b9312203-2f25-4ad0-b0ad-9784b627860f",
+        "3908ef47-5373-49bf-9dcc-1253f4ef92f5",
+        "e0e26c5e-25f9-41e4-8d42-c72e9c510b75",
+        "3725a9c6-dda4-438b-ba4b-ff5b058d21fa",
+        "db7927bb-b8b4-436d-bf7e-ac0eb767416d",
+        "bd81289e-761b-41c4-ba91-69c9254c03ef",
+        "13277f3d-0e12-4731-933d-b230af53d7e0",
+        "8887109b-3d97-47d2-a9a9-3c3d6cac71fe",
+        "80055084-66cd-435b-a3ef-f55109a99ad7",
+        "39023e72-aeb2-4d44-a368-ee96ddecfcd2",
+        "1aeee630-eac1-4896-bd65-469f8d45cc01"
+    ],
+    "tutorial": ""
+}
